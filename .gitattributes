@@ -4,3 +4,6 @@ ddns.sh filter=crypt diff=crypt
 git.sh filter=crypt diff=crypt
 install-personal.sh filter=crypt diff=crypt
 install.sh filter=crypt diff=crypt
+kerberos.sh filter=crypt diff=crypt
+ldapsearch.sh filter=crypt diff=crypt
+redhat-internal.sh filter=crypt diff=crypt
