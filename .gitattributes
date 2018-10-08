@@ -7,3 +7,4 @@ install.sh filter=crypt diff=crypt
 kerberos.sh filter=crypt diff=crypt
 ldapsearch.sh filter=crypt diff=crypt
 redhat-internal.sh filter=crypt diff=crypt
+vpn.sh filter=crypt diff=crypt
