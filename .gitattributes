@@ -2,3 +2,5 @@
 printers.sh filter=crypt diff=crypt
 ddns.sh filter=crypt diff=crypt
 git.sh filter=crypt diff=crypt
+install-personal.sh filter=crypt diff=crypt
+install.sh filter=crypt diff=crypt
