@@ -1,3 +1,4 @@
 #pattern  filter=crypt diff=crypt
 printers.sh filter=crypt diff=crypt
 ddns.sh filter=crypt diff=crypt
+git.sh filter=crypt diff=crypt
