@@ -8,3 +8,4 @@ kerberos.sh filter=crypt diff=crypt
 ldapsearch.sh filter=crypt diff=crypt
 redhat-internal.sh filter=crypt diff=crypt
 vpn.sh filter=crypt diff=crypt
+bin/rh-info filter=crypt diff=crypt
