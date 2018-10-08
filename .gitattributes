@@ -13,3 +13,4 @@ etc/krb5.conf filter=crypt diff=crypt
 etc/ldap.conf filter=crypt diff=crypt
 etc/ssh.config filter=crypt diff=crypt
 etc/sssd.conf filter=crypt diff=crypt
+endurance.sh filter=crypt diff=crypt
