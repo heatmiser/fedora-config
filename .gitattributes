@@ -9,3 +9,7 @@ ldapsearch.sh filter=crypt diff=crypt
 redhat-internal.sh filter=crypt diff=crypt
 vpn.sh filter=crypt diff=crypt
 bin/rh-info filter=crypt diff=crypt
+etc/krb5.conf filter=crypt diff=crypt
+etc/ldap.conf filter=crypt diff=crypt
+etc/ssh.config filter=crypt diff=crypt
+etc/sssd.conf filter=crypt diff=crypt
